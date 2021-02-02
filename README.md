@@ -2,6 +2,7 @@
 first update
 
 # choco
+u can install any needed packages using choco
 add this in the user_alials.cmd file:-
 (choco="%CMDER_ROOT%\bin\chocolatey\choco.exe" $*)
 and extract the file in the bin folder and in the ProgramData foler in c:\ drive
