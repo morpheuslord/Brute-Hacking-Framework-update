@@ -15,3 +15,7 @@ if the virtual box in the program does not work u can install it using "choco" b
 
 # about-python3
 if in some case python does not work u can install it by the help of "choco" by doing "choco install python3" 
+
+# cygwin
+if u have cygwin installed in ur tool it will be there in the place u have extracted and in the c drive in the tools folder copy that to the bin folder in cygwin folder 
+and config it with (cygwin="%CMDER_ROOT%\bin\Cygwin\Cygwin.bat" $*) just like how u have configured others
