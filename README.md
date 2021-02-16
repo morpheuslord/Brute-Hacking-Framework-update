@@ -38,6 +38,6 @@ type :
     
     λ nano user_aliases.cmd
 
-
+* U can use nano if cygwin is installed.
 * enter the command mentioned and save it.
 * close the tool and restart it and u are ready to go. 
