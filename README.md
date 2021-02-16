@@ -34,8 +34,10 @@ dowload sqlmap and move the sqlmap folder to the E:bin/ or C:bin/ folder and add
 ------------
 type :
     
-    $ cd config
+    λ cd config
     
-    $ nano user_aliases.cmd
+    λ nano user_aliases.cmd
+
+
 * enter the command mentioned and save it.
 * close the tool and restart it and u are ready to go. 
